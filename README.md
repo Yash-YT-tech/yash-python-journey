@@ -29,8 +29,8 @@ The goal is not just learning syntax, but building practical engineering habits 
 
 ## 📈 Progress Tracker
 
-- [x] Variables & Data Types
-- [x] Loops & Conditions
+- [ ] Variables & Data Types
+- [ ] Loops & Conditions
 - [ ] Functions
 - [ ] OOP
 - [ ] File Handling
